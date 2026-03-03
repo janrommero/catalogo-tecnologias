@@ -1,11 +1,12 @@
+
 === FICHA DEL EQUIPO ===
 ESTADO DEL PROYECTO: En planificación
 VERSIÓN: 0.1
 
-=== INTEGRANTE A COORDINADOR/A ===
+=== INTEGRANTE A COORDINADOR ===
 Nombre: (Persona A: Jan Romero Cruz)
 Tecnología asignada: React
-Estado personal: Pendiente
+Estado personal: En progreso
 
 === INTEGRANTE B ===
 Nombre: (Persona B: Pol Rueda Fernandez)
