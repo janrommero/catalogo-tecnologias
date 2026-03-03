@@ -13,6 +13,6 @@ Tecnologia asignada: Node.js
 Estado personal: Pendiente
 
 === INTEGRANTE C ===
-Nombre: (Persona C: Jan Romero Cruz)
-Tecnologia asignada: MongoDB
-Estado personal: Pendiente
+Nombre: Pol Rueda
+Tecnología asignada: MongoDB
+Estado personal: En progreso

@@ -18,7 +18,7 @@ Recurso: (Persona B: escribe una URL o nombre de recurso)
 
 BASE DE DATOS
 [ASIGNADO A PERSONA C]
-Tecnologia: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Tecnología: MongoDB
+Descripción: Base de datos NoSQL orientada a documentos
+Nivel: Intermedio
+Recurso: https://docs.mongodb.com
