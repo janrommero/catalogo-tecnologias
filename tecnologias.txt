@@ -1,6 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
-ÚLTIMA REVISIÓN: (completar con la fecha actual)
-RESPONSABLE: (completar con el nombre del revisor)
+ÚLTIMA REVISIÓN: 4 de marzo de 2026
+RESPONSABLE: Jordi
 
 FRONTEND
 [ASIGNADO A PERSONA A]
