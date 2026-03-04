@@ -1,18 +1,19 @@
+
 === FICHA DEL EQUIPO ===
 ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 0.1
+VERSIÓN: 0.2
 
-=== INTEGRANTE A COORDINADOR/A ===
+=== INTEGRANTE A COORDINADOR ===
 Nombre: (Persona A: Jan Romero Cruz)
 Tecnología asignada: React
-Estado personal: Pendiente
+Estado personal: En progreso
 
 === INTEGRANTE B ===
-Nombre: (Persona B: Pol Rueda Fernandez)
+Nombre: Jordi Gamboa Rafael
 Tecnologia asignada: Node.js
-Estado personal: Pendiente
+Estado personal: En progreso
 
 === INTEGRANTE C ===
-Nombre: (Persona C: Jan Romero Cruz)
-Tecnologia asignada: MongoDB
-Estado personal: Pendiente
+Nombre: Pol Rueda
+Tecnología asignada: MongoDB
+Estado personal: En progreso

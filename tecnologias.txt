@@ -5,20 +5,20 @@ RESPONSABLE: (completar con el nombre del revisor)
 FRONTEND
 [ASIGNADO A PERSONA A]
 Tecnologia: React
-Descripción: (Persona A: escribe una descripción breve)
-Nivel: (Persona A: Básico / Intermedio / Avanzado)
-Recurso: (Persona A: escribe una URL o nombre de recurso)
+Descripción: Librería de JavaScript para construir interfaces de usuario.
+Nivel: Intermedio
+Recurso: https://es.reactjs.org/
 
 BACKEND
 [ASIGNADO A PERSONA B]
-Tecnologia: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Tecnología: Node.js
+Descripción: Entorno de ejecución de JavaScript para backend.
+Nivel: Básico
+Recurso: https://nodejs.org/es/docs/
 
 BASE DE DATOS
 [ASIGNADO A PERSONA C]
-Tecnologia: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Tecnología: MongoDB
+Descripción: Base de datos NoSQL orientada a documentos
+Nivel: Intermedio
+Recurso: https://docs.mongodb.com
