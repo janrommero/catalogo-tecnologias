@@ -16,4 +16,4 @@ Estado personal: En progreso
 === INTEGRANTE C ===
 Nombre: Pol Rueda
 Tecnología asignada: MongoDB
-Estado personal: En progreso
+Estado personal: Completado
